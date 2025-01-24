@@ -4,4 +4,4 @@
 # Digital Image Processing
 
 
-# 3d Point Cloud
+# 3D Point Cloud
